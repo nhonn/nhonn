@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Nhon Nguyen and a versatile developer. \
-Currently, I am specialized on React, React-Native stuffs. \
+Currently, I am specialized on React, React-Native stuffs.
 
 
 <!--
