@@ -1,6 +1,7 @@
 ### Hi there 👋
-I am Nhon Nguyen, or you can call me Nolan.
-I'm a Software Engineer from Vietnam.
+I am Nhon Nguyen and a versatile developer. \
+Currently, I am specialized on React, React-Native stuffs. \
+
 
 <!--
 **nhonn/nhonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
