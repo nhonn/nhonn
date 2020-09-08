@@ -1,19 +1,15 @@
-### Hi there 👋
-I am Nhon Nguyen and a versatile developer. \
-Currently, I am specialized on React, React-Native stuffs.
+### About me 👋
+I'm Nhon Nguyen. 
+A *_versatile_* developer working and living in Vietnam 🇻🇳. \
+An active listener 👂. \
+A binge reader 📙. \
+A tea lover 🍵. \
+A dog lover 🐶. \
 
+### Things I'm interested in right now
+- React
+- React Native
+- Flutter
 
-<!--
-**nhonn/nhonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch
+👈 Add me on LinkedIn
