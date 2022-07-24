@@ -1,22 +1,25 @@
-### About me 👋
-I'm Nhon Nguyen. \
-Making a living in Vietnam 🇻🇳 as a fullstack developer. \
-An proactive listener 👂. \
-A binge reader 📙. \
+# About me
+Hi, I am Nhon Nguyen (Noah). \
+I am working as:
+- Front-end developer.
+- EN/CN/JP/VI translator.
+- Open sourcerer.
 
-### Things I'm using to solve problems
-- React
-- React Native
-- Golang
+# My toolkits to solve problems:
+- React.
+- React Native.
+- JAMStack.
+- Serveless architecture.
 
-### Things I'm doing
-- Maintaining and improving existing enterprise portals services
-- Automating enterprise workflow with Google Appscript
-- Integrating new technologies into existing services
-- Turning ideas into reality
+# Things I'm doing right now
+- Create cross platform apps
+- Landing pages
+- Enterprise frontend portals services
+- Build micro frontends for headless business services
+- Translate open source projects in Crowdin
 
-### Favorite motto
-Not everything is meant to be, but everything is worth a try
+# Favorite motto
+Not everything is meant to be, but everything is worth a try.
 
-### Get in touch
+# Get in touch
 👈  Add me on LinkedIn
