@@ -1,22 +1,19 @@
 # About me
 Hi, I am Nhon Nguyen (Noah). \
-I am working as:
-- Front-end developer.
-- EN/CN/JP/VI translator.
-- Open sourcerer.
+I am working as a Full-stack Engineer or maybe Senior GenAI Tab Engineer in Vietnam. Almost become a digital nomad.
 
 # My toolkits to solve problems:
-- React.
-- React Native.
-- JAMStack.
-- Serveless architecture.
+- React, NextJS.
+- React Native, Lynx.
+- Go, Rust.
+- Low-Code Tools like n8n, Budibase.
+- GenAI Tools like Claude, Grok.
 
 # Things I'm doing right now
-- Create cross platform apps
-- Landing pages
-- Enterprise frontend portals services
-- Build micro frontends for headless business services
-- Translate open source projects in Crowdin
+- Create cross-platform mobile apps.
+- Create high-traffic websites.
+- Create automation workflows.
+- Create boring internal tools for boring tasks.
 
 # Favorite motto
 Not everything is meant to be, but everything is worth a try.
