@@ -1,6 +1,3 @@
-Based on your current README and the updated tech stack (JS, React, React Native, Rust, Go), I'll create a new README that organizes your toolkit into smaller, logical groups for clarity while maintaining the essence of your original content. I'll also incorporate your full-stack engineering role, digital nomad aspirations, and the context from our previous conversation about Xcode and CocoaPods, which suggests you're working on mobile app development (likely iOS with React Native). The README will be concise yet comprehensive, reflecting your skills and personality.
-
-
 # About Me
 Hi, I'm Nhon Nguyen (Noah) 👋  
 Full-Stack Engineer based in Vietnam, chasing the digital nomad life 🌍. I build cross-platform apps, high-traffic websites, and automation tools with a passion for clean code and open-source.
