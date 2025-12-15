@@ -1,30 +1,79 @@
-# About Me
-Hi, I'm Nhon Nguyen (Noah) 👋  
-Full-Stack Engineer based in Vietnam, chasing the digital nomad life 🌍. I build cross-platform apps, high-traffic websites, and automation tools with a passion for clean code and open-source.
+# Hi, I’m Nhon Nguyen (Noah) 👋  
+**Indie Developer | B2C Product Builder | Quantitative Trading Infrastructure**
 
-# My Toolkits
-## Frontend & Mobile
-- **React**, **Next.js**: Crafting dynamic, high-performance web apps.
-- **React Native**: Building seamless cross-platform mobile experiences.
+Based in **Vietnam 🇻🇳**, building **consumer apps and systematic trading systems** with a focus on ownership, leverage, and long-term compounding.
 
-## Backend & Systems
-- **Go**, **Rust**: Developing robust, scalable, and efficient backend services.
+I don’t do client work.  
+I build **products and infrastructure I own**.
 
-## Automation & Low-Code
-- **n8n**, **Budibase**: Streamlining workflows and building internal tools fast.
+---
 
-## AI & Emerging Tech
-- **Claude**, **Grok**: Leveraging GenAI for smarter solutions.
+## 🚀 What I’m Building
 
-# What I'm Working On
-- Cross-platform mobile apps with React Native.
-- High-traffic websites using Next.js and Go.
-- Automation workflows to simplify repetitive tasks.
-- Internal tools to tackle mundane business needs.
+### 🧩 B2C Products
+- Build and ship **consumer-facing applications** end-to-end
+- Focus on **distribution, retention, and monetization**
+- Optimize for speed, clarity, and real users
 
-# Favorite Motto
-"Not everything is meant to be, but everything is worth a try."
+Areas of focus:
+- Mobile-first products
+- Subscription & usage-based models
+- Analytics-driven iteration
 
-# Get in Touch
-- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/nhonn-work)
-- 💻 Check out my projects here on GitHub!
+---
+
+### 📈 Quantitative Trading Infrastructure
+- Design **data pipelines, backtesting frameworks, and execution engines**
+- Build systems that prioritize **robustness, observability, and risk control**
+- Separate research from execution for safety and reproducibility
+
+Core beliefs:
+- Execution quality matters more than model complexity
+- Risk management is part of the system, not an afterthought
+- If it can’t run unattended, it’s not production-ready
+
+---
+
+## 🛠 Tech Stack
+
+### Product & Frontend
+- React, Next.js, TypeScript
+- Tailwind CSS
+
+### Mobile
+- **iOS (Swift)**
+- **React Native**
+
+### Backend & Systems
+- Go, Rust
+- REST APIs, data services
+
+### Quant & Infra
+- Market data ingestion
+- Backtesting & simulation
+- Strategy execution systems
+
+---
+
+## 🎯 Current Focus
+- Shipping **profitable B2C apps**
+- Building **modular quantitative trading infrastructure**
+- Improving execution reliability and system resilience
+- Designing software that compounds over time
+
+---
+
+## 🧭 Operating Philosophy
+
+> *“Leverage beats effort. Systems beat motivation.”*
+
+I optimize for:
+- Ownership over optionality
+- Simple systems over complex abstractions
+- Long-term consistency over short-term wins
+
+---
+
+## 🤝 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/nhonn-work)
+- 💻 Projects below ⬇️
