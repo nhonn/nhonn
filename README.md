@@ -1,79 +1,78 @@
-# Hi, I’m Nhon Nguyen (Noah) 👋  
-**Indie Developer | B2C Product Builder | Quantitative Trading Infrastructure**
+# Nhon Nguyen (Noah)
 
-Based in **Vietnam 🇻🇳**, building **consumer apps and systematic trading systems** with a focus on ownership, leverage, and long-term compounding.
+**Senior Product Engineer | Full-Stack Systems Builder**  
+Based in Vietnam 🇻🇳
 
-I don’t do client work.  
-I build **products and infrastructure I own**.
+I build scalable, user-facing software with strong product intuition and systems thinking.
 
----
-
-## 🚀 What I’m Building
-
-### 🧩 B2C Products
-- Build and ship **consumer-facing applications** end-to-end
-- Focus on **distribution, retention, and monetization**
-- Optimize for speed, clarity, and real users
-
-Areas of focus:
-- Mobile-first products
-- Subscription & usage-based models
-- Analytics-driven iteration
+I enjoy owning complex problems end-to-end — from ambiguous requirements to clean architecture, implementation, and long-term iteration in production.
 
 ---
 
-### 📈 Quantitative Trading Infrastructure
-- Design **data pipelines, backtesting frameworks, and execution engines**
-- Build systems that prioritize **robustness, observability, and risk control**
-- Separate research from execution for safety and reproducibility
+## Engineering Focus
 
-Core beliefs:
-- Execution quality matters more than model complexity
-- Risk management is part of the system, not an afterthought
-- If it can’t run unattended, it’s not production-ready
+I design and ship software that is:
+
+- Scalable by default
+- Measurable in production
+- Maintainable by other engineers
+- Built with long-term velocity in mind
+
+I approach engineering as a systems problem:
+
+- Where does this break under scale?
+- How do we observe it in production?
+- How do we reduce future complexity?
+- How do we make this easier to extend?
 
 ---
 
-## 🛠 Tech Stack
+## Core Expertise
 
-### Product & Frontend
-- React, Next.js, TypeScript
-- Tailwind CSS
+### Frontend Architecture
+- React
+- Next.js
+- TypeScript
+- Component-driven architecture
+- State management patterns
+- Performance optimization
+- Design system integration
+
+### Backend & Services
+- Go
+- REST API design
+- Modular service boundaries
+- Authentication & authorization flows
+- Data modeling
+- Logging & observability
 
 ### Mobile
-- **iOS (Swift)**
-- **React Native**
+- Swift (iOS)
+- React Native
 
-### Backend & Systems
-- Go, Rust
-- REST APIs, data services
-
-### Quant & Infra
-- Market data ingestion
-- Backtesting & simulation
-- Strategy execution systems
-
----
-
-## 🎯 Current Focus
-- Shipping **profitable B2C apps**
-- Building **modular quantitative trading infrastructure**
-- Improving execution reliability and system resilience
-- Designing software that compounds over time
+### Engineering Foundations
+- Clean architecture principles
+- API-first design
+- CI/CD workflows
+- Production debugging
+- Performance profiling
+- Clear technical documentation
 
 ---
 
-## 🧭 Operating Philosophy
+## How I Work
 
-> *“Leverage beats effort. Systems beat motivation.”*
+- Own features from concept to production
+- Reduce ambiguity through clear technical proposals
+- Prefer clarity over cleverness
+- Design systems other engineers can extend confidently
+- Optimize for long-term maintainability over short-term hacks
+- Communicate clearly in distributed environments
 
-I optimize for:
-- Ownership over optionality
-- Simple systems over complex abstractions
-- Long-term consistency over short-term wins
+I value strong product thinking, pragmatic engineering, and durable systems.
 
 ---
 
-## 🤝 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/nhonn-work)
-- 💻 Projects below ⬇️
+## Connect
+
+LinkedIn: [Nhon Nguyen](https://www.linkedin.com/in/noahnguyen078/)
